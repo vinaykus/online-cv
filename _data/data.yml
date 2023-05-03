@@ -7,23 +7,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Vinay Kushwaha
+    tagline: Full Stack Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
+    email: vinay_kushwaha@hotmail.com
+    phone: 984 509 7118
+    timezone: Kolkata Timezone
+    citizenship: Indian
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: vinaykush91
     xing: alandoe
-    github: sharu725
+    github: vinaykush
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@vinaykush'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,10 +33,10 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Native
-
-        - idiom: French
           level: Professional
+
+        - idiom: Hindi
+          level: Native
 
         - idiom: Spanish
           level: Professional
@@ -44,10 +44,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Gardening
           link:
 
-        - item: Snowboarding
+        - item: Cycling
           link:
 
         - item: Cooking
